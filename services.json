@@ -1,22 +1,24 @@
- [
+ {
+   "result": [
       {
-      	"id": 1,
-      	"name": "serviceA"
+            "id": 1,
+            "name": "serviceA"
       },
       {
-      	"id": 2,
-      	"name": "serviceB"
+            "id": 2,
+            "name": "serviceB"
       },
       {
-      	"id": 3,
-      	"name": "serviceC"
+            "id": 3,
+            "name": "serviceC"
       },
       {
-      	"id": 4,
-      	"name": "serviceD"
+            "id": 4,
+            "name": "serviceD"
       },
       {
             "id": 5,
             "name": "serviceE"
       }
-]
+   ]
+ }

@@ -1,5 +1,4 @@
-"services": {
-	"result": [
+ [
       {
       	"id": 1,
       	"name": "serviceA"
@@ -20,5 +19,4 @@
             "id": 5,
             "name": "serviceE"
       }
-	]
-}
+]
